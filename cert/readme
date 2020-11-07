@@ -1,0 +1,8 @@
+Using a hash certificate (.cert) in string fromat to view certficate information like :
+  Status:selfsigned,revoked,Valid
+  Issuer
+  Subject
+  Validity
+  Extensions.
+
+Feel free to use it and give me a feedback
